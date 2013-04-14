@@ -1,0 +1,4 @@
+int fun(void) {
+   return a/b;
+}
+/*hahahhhh*/

@@ -1,0 +1,13 @@
+INT 
+ID 
+LPAREN ( 
+VOID 
+RPAREN ) 
+LBRACE  { 
+RETURN 
+ID 
+OVER 
+ID 
+SEMI ; 
+RBRACE  } 
+ENDFILE 
