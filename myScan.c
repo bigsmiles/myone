@@ -271,7 +271,13 @@ TokenType getToken(void)
    return currentToken;
 } /* end getToken */ 
 
+/*
 
+
+≥¨…ÒÀß±¨¡À£°
+
+ 
+*/
 
 
 
